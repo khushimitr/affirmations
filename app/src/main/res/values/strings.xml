@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Don\'t lose the spark that makes u you </string>
+    <string name="affirmation2">If you want change you have to invite chaos</string>
+    <string name="affirmation3">As lost as Alice as lost as Hatter</string>
+    <string name="affirmation4">Some things can only burn and not turn into ashes</string>
+    <string name="affirmation5">Time is NOW</string>
+    <string name="affirmation6">If it does not open, it\'s not your door</string>
+    <string name="affirmation7">You control your destiny you don\'t need magic to do it</string>
+    <string name="affirmation8">Believe in yourself</string>
+    <string name="affirmation9">Happiness can be found even in the darkest of times, if one remembers to turn on the light.</string>
+    <string name="affirmation10">Don\'t wish for it Work for it</string>
+</resources>
